@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="DictionaryApplyTests" type="PLAIN_TEXT" />
       <mapping pattern="CFDApply" type="Scala" />
+      <mapping pattern="DictionaryApply" type="Scala" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
