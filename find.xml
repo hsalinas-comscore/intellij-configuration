@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\census-stream-sense-daily-duration-deux-hadoop\src\main\java\com\comscore\census\streamsense\dailydurationdeux\HourlyDurationFilterDriver.java [census-stream-sense-daily-duration-deux-hadoop]'" />
-    <option name="defaultScopeName" value="File '...\census-stream-sense-daily-duration-deux-hadoop\src\main\java\com\comscore\census\streamsense\dailydurationdeux\HourlyDurationFilterDriver.java [census-stream-sense-daily-duration-deux-hadoop]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '...\census-stream-sense-daily-duration-deux-hadoop\src\main\java\com\comscore\census\streamsense\dailydurationdeux\HourlyDurationFilterDriver.java [census-stream-sense-daily-duration-deux-hadoop]'" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
