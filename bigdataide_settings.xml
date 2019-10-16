@@ -14,11 +14,11 @@
           </option>
           <option name="fqn" value="com.intellij.bigdatatools.zeppelin.settings.ZeppelinConnectionData" />
           <option name="groupId" value="ZeppelinConnections" />
-          <option name="innerId" value="Zeppelin connection@ZeppelinConnections@-6150340391624766768" />
+          <option name="innerId" value="Zeppelin connection@ZeppelinConnections@-7631715745431004553" />
           <option name="name" value="Zeppelin connection" />
           <option name="pluginId" value="com.intellij.bigdatatools" />
           <option name="port" value="0" />
-          <option name="uri" value="cviadcpp01:8090" />
+          <option name="uri" value="localhost:8080" />
         </ExtendedConnectionData>
       </list>
     </option>
