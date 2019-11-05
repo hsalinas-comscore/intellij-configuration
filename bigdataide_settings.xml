@@ -15,7 +15,7 @@
           <option name="fqn" value="com.intellij.bigdatatools.zeppelin.settings.ZeppelinConnectionData" />
           <option name="groupId" value="ZeppelinConnections" />
           <option name="innerId" value="Zeppelin connection@ZeppelinConnections@-7701419845999994948" />
-          <option name="name" value="Zeppelin connection" />
+          <option name="name" value="CS-Zeppelin" />
           <option name="pluginId" value="com.intellij.bigdatatools" />
           <option name="port" value="0" />
           <option name="uri" value="cs-zeppelin:80" />
