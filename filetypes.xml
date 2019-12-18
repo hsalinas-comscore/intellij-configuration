@@ -4,6 +4,7 @@
       <mapping pattern="DictionaryApplyTests" type="PLAIN_TEXT" />
       <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping ext="bxml" type="PLAIN_TEXT" />
+      <mapping ext="bcp" type="PLAIN_TEXT" />
       <mapping pattern="Driver" type="Scala" />
       <mapping pattern="CFDApply" type="Scala" />
       <mapping pattern="DictionaryApply" type="Scala" />
