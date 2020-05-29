@@ -18,7 +18,7 @@
           <option name="name" value="CS-Zeppelin" />
           <option name="pluginId" value="com.intellij.bigdatatools" />
           <option name="port" value="0" />
-          <option name="uri" value="cs-zeppelin:80" />
+          <option name="uri" value="cs-zeppelin" />
         </ExtendedConnectionData>
       </list>
     </option>
